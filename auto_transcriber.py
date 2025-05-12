@@ -273,7 +273,7 @@ class TranscriberGUI(MDBoxLayout):
         
         # Opis aplikacji
         self.description_label = MDLabel(
-            text="Transkrypcja wideo do napisów SRT z wykorzystaniem modelu Whisper",
+            text="",
             halign="center",
             size_hint_y=None,
             height=40,  # Zmniejszona wysokość
