@@ -1,0 +1,7 @@
+moviepy==1.0.3
+python-dotenv==1.0.0
+ffmpeg-python==0.2.0
+openai-whisper==20231117
+kivy==2.3.0
+kivymd==1.1.1
+pillow==10.2.0
